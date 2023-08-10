@@ -1,0 +1,50 @@
+.servicesContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 32px;
+}
+
+.servicesSection {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #F7F9FA;
+  padding: 20px;
+}
+
+.expertiseSection {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #e9eff5;
+  padding: 20px;
+}
+
+.sectionTitle {
+  font-size: 56px;
+  font-weight: bold;
+  width: 20%;
+  margin-top: 5px;
+  color: #2d3748;
+}
+
+.servicesList,
+.expertiseList {
+  width: 70%;
+}
+
+.item {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #4a5568;
+}

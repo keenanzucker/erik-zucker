@@ -1,0 +1,58 @@
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.aboutSectionTitle {
+  font-size: 56px;
+  font-weight: bold;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  color: #2d3748;
+}
+
+.sectionTitleContainer {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.aboutSection {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #F7F9FA;
+  padding: 20px;
+}
+
+.interestsSection {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #e9eff5;
+  padding: 20px;
+}
+
+.aboutContent {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  color: #4a5568;
+  width: 70%;
+}
+
+.sectionImage {
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  object-fit: cover;
+  margin-top: 15px;
+}

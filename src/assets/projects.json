@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Lumentum",
+    "description": "Lumentum is a one billion dollar annual revenue spin-off from JDSU. Originated new role in the CTO office to support over $300M in laser product revenue, bringing focus to 5-year product and technology strategy, and Lumentum branding via thought leadership. Led lidar report production and laser application roadmaps, initiated key development projects, and boosted sales and recruitment through presentations at industry events.",
+    "imageUrl": "lumentum.png",
+    "link": "https://www.lumentum.com/en",
+    "buttonText": "Lumentum Website"
+  },
+  {
+    "title": "JDSU",
+    "description": "Led multi-site (San Jose, Milpitas, China), multi-discipline (semiconductor, optical, mechanical, electrical, test, reliability) product development teams, ranging from 30 to 100 engineers and technicians. Developed and released a wide range of laser products including semiconductor lasers, fiber lasers, and diode-pumped solid-state lasers.",
+    "imageUrl": "jdsu.jpg",
+    "link": "https://en.wikipedia.org/wiki/JDSU",
+    "buttonText": "JDSU Information"
+  },
+  {
+    "title": "SPIE Conference Chair",
+    "description": "One of conference chair members for Photonics West, the world’s premier event for lasers, biomedical optics and biophotonic technologies, quantum, and optoelectronics. Member of SPIE for over 11 years.",
+    "imageUrl": "photonics-west.png",
+    "link": "https://spie.org/conferences-and-exhibitions/photonics-west",
+    "buttonText": "SPIE Photonics West"
+  },
+  {
+    "title": "Publications",
+    "description": "Over 30 publications in the fields of lasers, optics, and photonics.",
+    "imageUrl": "spie.svg",
+    "link": "https://spie.org/profile/Erik.Zucker-9080",
+    "buttonText": "SPIE Publications"
+  },
+  {
+    "title": "Research wih Spectra Diode Labs (SDL)",
+    "description": "Over 40 research projects in the fields of lasers, optics, and photonics.",
+    "imageUrl": "laser1.jpg",
+    "link": "https://www.researchgate.net/scientific-contributions/Erik-Zucker-2005380098",
+    "buttonText": "Research"
+  },
+  {
+    "title": "Patents",
+    "description": "7 patents in the fields of lasers, optics, and photonics.",
+    "imageUrl": "gpatents.png",
+    "link": "https://patents.google.com/?inventor=Erik+Paul+Zucker",
+    "buttonText": "List of Patents"
+  }
+]
